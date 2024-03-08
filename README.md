@@ -1,2 +1,2 @@
 # Machine-Learning-2
-ML Labs
+Testing some predictions on some basic pictures using Keras
